@@ -20,3 +20,5 @@ Kodluyoruz HTML dersleri Ödev1 çalışması
 <p>Marvel yapımları</p>
 <p>12 Yıllık Esaret</p>
 <p>The Help</p>
+
+www.patika.dev 
